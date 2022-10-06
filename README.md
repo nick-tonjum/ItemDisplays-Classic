@@ -8,4 +8,4 @@ https://www.planetminecraft.com/data-pack/itemdisplays-display-items-on-stone-sl
 
 YouTube Documentation:
 
-https://www.youtube.com/watch?v=kKef1qfB3kI&t=74s
+https://www.youtube.com/watch?v=kKef1qfB3kI
